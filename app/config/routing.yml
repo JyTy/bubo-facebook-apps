@@ -1,0 +1,4 @@
+DashboardBundle:
+    resource: "@DashboardBundle/Controller/DashboardController.php"
+    type:     annotation
+    prefix:   /
